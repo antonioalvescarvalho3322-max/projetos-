@@ -58,11 +58,6 @@ ul {
   margin-inline: auto;
 }
 
-.center {
-  text-align: center;
-  margin-top: 2rem;
-}
-
 /* ===== Botões ===== */
 .btn {
   display: inline-flex;
@@ -368,67 +363,6 @@ ul {
   flex-wrap: wrap;
   gap: 0.75rem;
   margin-top: auto;
-}
-
-/* ===== Repositórios ===== */
-.repos-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.25rem;
-}
-
-.repos-status {
-  grid-column: 1 / -1;
-  text-align: center;
-  color: var(--muted);
-}
-
-.repo-card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1.25rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  transition: transform 0.2s, border-color 0.2s;
-}
-
-.repo-card:hover {
-  transform: translateY(-4px);
-  border-color: var(--primary);
-}
-
-.repo-card h3 {
-  font-size: 1.05rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  word-break: break-word;
-}
-
-.repo-card p {
-  color: var(--muted);
-  font-size: 0.9rem;
-  flex: 1;
-}
-
-.repo-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  font-size: 0.82rem;
-  color: var(--muted);
-}
-
-.repo-lang::before {
-  content: "";
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--lang-color, var(--primary));
-  margin-right: 0.35rem;
 }
 
 /* ===== Contato ===== */

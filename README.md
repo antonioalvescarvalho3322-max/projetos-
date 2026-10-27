@@ -1,6 +1,6 @@
 # Portfólio — Antônio Alves
 
-Site pessoal para compartilhar meus projetos, repositórios do GitHub e redes sociais.
+Site pessoal para compartilhar meus projetos, meu GitHub e redes sociais.
 
 ## Projetos em destaque
 
@@ -12,18 +12,14 @@ Site pessoal para compartilhar meus projetos, repositórios do GitHub e redes so
 - GitHub: https://github.com/antonioalvescarvalho3322-max
 - LinkedIn: https://www.linkedin.com/in/ant%C3%B4nio-alves-17a51b261/
 - Instagram: https://www.instagram.com/antonioalvescarv/
-- E-mail: antonioalvescarvalho3322@gmail.com
 
 ## Estrutura
 
 ```
 index.html      # Página principal
 css/style.css   # Estilos (tema claro/escuro, responsivo)
-js/main.js      # Menu mobile, tema, animações e lista de repositórios via API do GitHub
+js/main.js      # Menu mobile, tema e animações
 ```
-
-A seção **Repositórios** busca automaticamente os repositórios públicos pela API do GitHub,
-então novos projetos aparecem sem precisar editar o código.
 
 ## Como adicionar um novo projeto em destaque
 
