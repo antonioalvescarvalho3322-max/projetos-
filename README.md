@@ -12,6 +12,7 @@ Site pessoal para compartilhar meus projetos, repositórios do GitHub e redes so
 - GitHub: https://github.com/antonioalvescarvalho3322-max
 - LinkedIn: https://www.linkedin.com/in/ant%C3%B4nio-alves-17a51b261/
 - Instagram: https://www.instagram.com/antonioalvescarv/
+- E-mail: antonioalvescarvalho3322@gmail.com
 
 ## Estrutura
 

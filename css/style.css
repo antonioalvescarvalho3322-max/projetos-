@@ -460,7 +460,7 @@ ul {
 .contact-card span {
   color: var(--muted);
   font-size: 0.9rem;
-  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
 /* ===== Footer ===== */
